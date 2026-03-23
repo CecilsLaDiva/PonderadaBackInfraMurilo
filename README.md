@@ -196,9 +196,12 @@ Exemplos objetivos de uso:
 
 Em todas as vezes que usei AI, eu pedi para ela **explicar o porquê das mudanças** e **como aquilo funcionava**, para não só copiar, mas entender o que estava sendo alterado.
 
-No final de tudo, eu também coloquei a atividade completa em uma AI e pedi uma avaliação geral para confirmar se a entrega estava adequada ao que foi pedido.
+No final de tudo, eu também coloquei a atividade completa em uma AI e pedi uma avaliação geral para confirmar se a entrega estava adequada ao que foi pedido e pedi ajuda eu como fazer ou sobre oque fazer em alguns casos que não tinha conhecimento de como funcionavam as coisas, mas isso foi mais no sentido de pedir um passo a passo ou um tutorial simples.
 
-Também pedi para a AI comentar as áreas mais importantes do código. Depois disso, eu mesma revisei esses comentários, corrigi/adaptei o texto, acrescentei algumas informações e reescrevi trechos no meu estilo.
+Pedi para a AI comentar as áreas mais importantes do código. Depois disso, eu mesma revisei esses comentários, corrigi/adaptei o texto, acrescentei algumas informações e reescrevi trechos.
+
+E por último pedi ajuda com as documentações, escrevi tudo que deveria ser escrito na documentação de maneira informal e depois pedi para ela organizar e melhorar a legibilidade. Depois disso fiz um onceover rápido para pegar qualquer erro.
+
 
 ## Onde está a evidência experimental
 
